@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\sumaConsola\bin\Debug\net6.0\sumaConsola.exe
+C:\Users\Sena\source\repos\sumaConsola\bin\Debug\net6.0\sumaConsola.deps.json
+C:\Users\Sena\source\repos\sumaConsola\bin\Debug\net6.0\sumaConsola.runtimeconfig.json
+C:\Users\Sena\source\repos\sumaConsola\bin\Debug\net6.0\sumaConsola.dll
+C:\Users\Sena\source\repos\sumaConsola\bin\Debug\net6.0\sumaConsola.pdb
+C:\Users\Sena\source\repos\sumaConsola\obj\Debug\net6.0\sumaConsola.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\sumaConsola\obj\Debug\net6.0\sumaConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\sumaConsola\obj\Debug\net6.0\sumaConsola.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\sumaConsola\obj\Debug\net6.0\sumaConsola.AssemblyInfo.cs
+C:\Users\Sena\source\repos\sumaConsola\obj\Debug\net6.0\sumaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\sumaConsola\obj\Debug\net6.0\sumaConsola.dll
+C:\Users\Sena\source\repos\sumaConsola\obj\Debug\net6.0\refint\sumaConsola.dll
+C:\Users\Sena\source\repos\sumaConsola\obj\Debug\net6.0\sumaConsola.pdb
+C:\Users\Sena\source\repos\sumaConsola\obj\Debug\net6.0\sumaConsola.genruntimeconfig.cache
+C:\Users\Sena\source\repos\sumaConsola\obj\Debug\net6.0\ref\sumaConsola.dll

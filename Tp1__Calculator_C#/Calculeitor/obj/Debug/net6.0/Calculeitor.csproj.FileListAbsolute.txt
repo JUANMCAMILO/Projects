@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\Calculeitor\bin\Debug\net6.0\Calculeitor.exe
+C:\Users\Sena\source\repos\Calculeitor\bin\Debug\net6.0\Calculeitor.deps.json
+C:\Users\Sena\source\repos\Calculeitor\bin\Debug\net6.0\Calculeitor.runtimeconfig.json
+C:\Users\Sena\source\repos\Calculeitor\bin\Debug\net6.0\Calculeitor.dll
+C:\Users\Sena\source\repos\Calculeitor\bin\Debug\net6.0\Calculeitor.pdb
+C:\Users\Sena\source\repos\Calculeitor\obj\Debug\net6.0\Calculeitor.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\Calculeitor\obj\Debug\net6.0\Calculeitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\Calculeitor\obj\Debug\net6.0\Calculeitor.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\Calculeitor\obj\Debug\net6.0\Calculeitor.AssemblyInfo.cs
+C:\Users\Sena\source\repos\Calculeitor\obj\Debug\net6.0\Calculeitor.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\Calculeitor\obj\Debug\net6.0\Calculeitor.dll
+C:\Users\Sena\source\repos\Calculeitor\obj\Debug\net6.0\refint\Calculeitor.dll
+C:\Users\Sena\source\repos\Calculeitor\obj\Debug\net6.0\Calculeitor.pdb
+C:\Users\Sena\source\repos\Calculeitor\obj\Debug\net6.0\Calculeitor.genruntimeconfig.cache
+C:\Users\Sena\source\repos\Calculeitor\obj\Debug\net6.0\ref\Calculeitor.dll
